@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1395633073 source:c:\users\admin\desktop\richman’s auto dealership\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"4135FunctionDeclarations.h"
+	"4135FunctionLibrary.h"
+
+1391215825 c:\users\admin\desktop\richman’s auto dealership\4135functiondeclarations.h
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+
+1391215832 c:\users\admin\desktop\richman’s auto dealership\4135functionlibrary.h
+
